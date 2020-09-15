@@ -9,4 +9,4 @@ _There are multiple ways to do this, you may need to be specific with your conta
 _Remember you can use a variety of units - px, em, fr, etc... - for the size of rows/columns_
 
 **Image to recreate**:
-![Image to Recreate](mondrian-painting.png)
+![Image to Recreate](mondrian-painting.PNG)
